@@ -1,4 +1,4 @@
-**﻿Docs_Reader**
+**﻿Docs_Reader using RAG**
 
 Docs Reader is a web-based application that allows users to upload documents (PDF, DOCX) and ask questions about their content. The system extracts text from the uploaded files, processes it, and uses an AI-powered retrieval mechanism to answer user queries accurately.
 
