@@ -1,6 +1,6 @@
 **﻿Docs_Reader using RAG**
 
-Docs Reader is a web-based application that allows users to upload documents (PDF, DOCX, TXT) and ask questions about their content. The system extracts text from the uploaded files, processes it, and uses an AI-powered retrieval mechanism to answer user queries accurately.
+Developed a Document Search App using Streamlit, LangChain, FAISS, and HuggingFace Embeddings to enable AI-powered document question answering. Implemented multi-format document processing (PDF, DOCX, TXT), chunking, vector storage, and retrieval-based search for exact answers.
 
 **Technologies Used**
 
